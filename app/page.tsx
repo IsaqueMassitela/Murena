@@ -8,7 +8,7 @@ export default function Home() {
       title="Bem-vindo ao Condomínio MURENA"
       subtitle="Seu refúgio natural com conforto basico, moderno e seguro para sua família."
       buttonText="Conheça as Vivendas"
-      buttonLink="/vivendas"
+      buttonLink="/Vivendas"
     />
   );
 }

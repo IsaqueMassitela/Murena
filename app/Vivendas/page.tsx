@@ -1,12 +1,12 @@
 import { Card, CardContent } from "@/app/components/ui/card ";
 
 const imagens = [
-  "/images/vivenda1.jpg",
-  "/images/vivenda2.jpg",
-  "/images/vivenda3.jpg",
-  "/images/vivenda4.jpg",
-  "/images/vivenda5.jpg",
-  "/images/vivenda6.jpg",
+  "/Casa1.jpeg",
+  "/Casa2.jpeg",
+  "/Casa3.jpeg",
+  "/Casa4.jpeg",
+  "/Casa5.jpeg",
+  "/vivenda6.jpeg",
 ];
 
 export default function Vivendas() {

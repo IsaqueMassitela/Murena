@@ -36,7 +36,7 @@ export const Hero: React.FC<HeroProps> = ({
   {/* Card 1 */}
   <div className="w-64 bg-white shadow-lg rounded-xl overflow-hidden flex flex-col items-center">
     <img
-      src="/C1.jpeg"
+      src="/Casa1.jpeg"
       alt="Imagem 1"
       className="w-full h-32 object-cover"
     />
