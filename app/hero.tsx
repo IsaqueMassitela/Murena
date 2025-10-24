@@ -55,7 +55,7 @@ export const Hero: React.FC<HeroProps> = ({
   {/* Card 2 */}
   <div className="w-64 bg-white shadow-lg rounded-xl overflow-hidden flex flex-col items-center">
     <img
-      src="/C2.jpeg"
+      src="/Casa2.jpeg"
       alt="Imagem 2"
       className="w-full h-32 object-cover"
     />
@@ -74,7 +74,7 @@ export const Hero: React.FC<HeroProps> = ({
   {/* Card 3 */}
   <div className="w-64 bg-white shadow-lg rounded-xl overflow-hidden flex flex-col items-center">
     <img
-      src="/C3.jpeg"
+      src="/Casa3.jpeg"
       alt="Imagem 3"
       className="w-full h-32 object-cover"
     />
@@ -93,7 +93,7 @@ export const Hero: React.FC<HeroProps> = ({
   {/* Card 4 */}
   <div className="w-64 bg-white shadow-lg rounded-xl overflow-hidden flex flex-col items-center">
     <img
-      src="/C4.jpeg"
+      src="/Casa4.jpeg"
       alt="Imagem 4"
       className="w-full h-32 object-cover"
     />
